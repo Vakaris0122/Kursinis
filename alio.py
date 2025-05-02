@@ -551,3 +551,5 @@ def main():
 if __name__ == '__main__':  # Jei šis failas yra vykdomas kaip pagrindinis skriptas
     main()  # Iškviečia pagrindinę funkciją
 
+
+
